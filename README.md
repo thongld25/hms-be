@@ -1,1 +1,1 @@
-# hms-be
+# Hospital Manager System
